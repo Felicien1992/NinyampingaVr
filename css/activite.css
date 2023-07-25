@@ -1,0 +1,530 @@
+body {
+    background-color: bisque;
+}
+
+.indimi {
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.img {
+    width: 200px;
+    height: 170px;
+    border-radius: 20px;
+    transition: 1s;
+    margin-right: 40px;
+}
+
+.img:hover {
+    scale: 1.3;
+}
+
+.iyihariye {
+    background-color: rgba(122, 15, 136, 0.774);
+}
+
+.ifoto {
+    background: yellow;
+    margin-left: 15px;
+    margin-right: 1420px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+
+.titre {
+    display: flex;
+    color: white;
+    margin-bottom: 20px;
+
+}
+
+button:hover {
+    background-color: aqua;
+    width: 150px;
+    color: black;
+}
+
+#rimwe {
+    background-color: yellow;
+    margin-left: 20px;
+    margin-right: 1650px;
+    color: 900C3F;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#kabiri {
+    background-color: yellow;
+    margin-left: 20px;
+    margin-right: 1580px;
+    color: 900C3F;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#gatatu {
+    background-color: yellow;
+    margin-left: 20px;
+    margin-right: 1150px;
+    color: 900C3F;
+    border-radius: 10px;
+}
+
+.iyihariye {
+    background-color: 800000;
+}
+
+.yambere {
+    display: flex;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.yakabiri {
+    display: flex;
+    padding-bottom: 40px;
+    padding-left: 10px;
+}
+
+.yagatatu {
+    display: flex;
+    padding-bottom: 40px;
+    padding-left: 10px;
+}
+
+.yakane {
+    display: flex;
+    padding-bottom: 40px;
+    padding-left: 10px;
+}
+
+.yagatanu {
+    display: flex;
+    padding-bottom: 40px;
+    padding-left: 10px;
+}
+
+.yagatandatu {
+    display: flex;
+    padding-bottom: 40px;
+    padding-left: 10px;
+}
+
+.yindwi {
+    display: flex;
+    padding-bottom: 40px;
+    padding-left: 10px;
+}
+
+.yumunani {
+    display: flex;
+    padding-bottom: 40px;
+    padding-left: 10px;
+}
+
+.yicenda {
+    display: flex;
+    padding-bottom: 40px;
+    padding-left: 10px;
+}
+
+button {
+    background-color: #f02170;
+    border: transparent;
+    border-radius: 10px;
+    box-shadow: 3px 5px rgb(255, 255, 0);
+    color: white;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: rgb(17, 19, 18);
+}
+
+button>a {
+    color: rgb(240, 234, 234);
+    text-decoration-line: none;
+
+}
+
+div {
+    margin-right: 20px;
+}
+
+.yanyuma {
+    display: flex;
+}
+
+a {
+    padding-bottom: 10px;
+    color: red;
+    margin-left: 0px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.one {
+    display: flex;
+    padding: 25px;
+}
+.one a{
+    transition: 0.3s;
+    font-weight: bold;
+    font-size: 25px;
+    color: yellow
+
+}
+
+.one a:hover{
+     color: #0ef548;
+     
+}
+
+.twoo {
+    display: flex;
+    padding: 25px;
+}
+.twoo a{
+    transition: 0.3s;
+    font-weight: bold;
+    font-size: 25px;
+    color: yellow;
+}
+.twoo a:hover{
+    color: #21f032;
+}
+
+.stree {
+    display: flex;
+    padding: 25px;
+    text-decoration: underline;
+    color: A6F7EB;
+}
+.stree a{
+    transition: 0.3s;
+    font-weight: bold;
+    font-size: 25px;
+    color: yellow
+    
+}
+.stree a:hover{
+    color: #05f354;
+}
+
+#yonyene {
+
+    margin: 15px;
+    color: white;
+    font-size: 25px;
+}
+
+#yonyene input {
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    font-size: larger;
+    border-radius: 20px;
+}
+
+ol>a {
+    color: rgb(22, 184, 206);
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.mj {
+    color: rgb(22, 184, 206);
+    text-decoration: underline;
+}
+
+#mb {
+    color: A6F7EB;
+    text-decoration: underline;
+}
+
+
+
+
+#nn {
+    color: rgb(211, 89, 89);
+    text-decoration: underline;
+}
+
+.dd {
+    color: white;
+    text-decoration: underline;
+}
+
+h2 {
+    color: #000;
+}
+
+p {
+    font-size: larger;
+}
+
+.dd {
+    color: #b9f021;
+}
+
+.a {
+    color: rgb(52, 122, 252);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.a:hover {
+    color: #f02170;
+}
+
+@media screen and (min-width: 200px) and (max-width:1200px) {
+    body {
+        background-color: rgb(105, 222, 238);
+    }
+
+    .indimi {
+        width: 200px;
+        height: 30px;
+        text-align: center;
+        border-radius: 20px;
+    }
+
+    .img {
+        width: 200px;
+        height: 170px;
+        border-radius: 20px;
+        transition: 1s;
+        margin-right: 40px;
+    }
+
+    .img:hover {
+        scale: 1.3;
+    }
+
+    .iyihariye {
+        background-color: rgba(122, 15, 136, 0.774);
+    }
+
+    .ifoto {
+        background: yellow;
+        margin-left: 15px;
+        margin-right: 400px;
+        border-radius: 15px;
+        margin-bottom: 30px;
+    }
+
+    .titre {
+        display: flex;
+        color: white;
+        margin-bottom: 20px;
+
+    }
+
+    button:hover {
+        background-color: aqua;
+        width: 150px;
+        color: black;
+    }
+
+    #rimwe {
+        background-color: yellow;
+        margin-left: 30px;
+        margin-right: 650px;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    #kabiri {
+        background-color: yellow;
+        margin-left: 20px;
+        margin-right: 550px;
+        color: 900C3F;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    #gatatu {
+        background-color: yellow;
+        margin-left: 20px;
+        margin-right: 1150px;
+        color: 900C3F;
+        border-radius: 10px;
+    }
+
+    .iyihariye {
+        background-color: 800000;
+    }
+
+    .yambere {
+        display: flex;
+        padding-bottom: 40px;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+
+    .yakabiri {
+        display: flex;
+        padding-bottom: 40px;
+        padding-left: 10px;
+    }
+
+    .yagatatu {
+        display: flex;
+        padding-bottom: 40px;
+        padding-left: 10px;
+    }
+
+    .yakane {
+        display: flex;
+        padding-bottom: 40px;
+        padding-left: 10px;
+    }
+
+    .yagatanu {
+        display: flex;
+        padding-bottom: 40px;
+        padding-left: 10px;
+    }
+
+    .yagatandatu {
+        display: flex;
+        padding-bottom: 40px;
+        padding-left: 10px;
+    }
+
+    .yindwi {
+        display: flex;
+        padding-bottom: 40px;
+        padding-left: 10px;
+    }
+
+    .yumunani {
+        display: flex;
+        padding-bottom: 40px;
+        padding-left: 10px;
+    }
+
+    .yicenda {
+        display: flex;
+        padding-bottom: 40px;
+        padding-left: 10px;
+    }
+
+    button {
+        background-color: #f02170;
+        border: transparent;
+        border-radius: 10px;
+        box-shadow: 3px 5px rgb(255, 255, 0);
+        color: white;
+        width: 100px;
+        height: 30px;
+        font-size: 15px;
+        transition: 0.3s;
+    }
+
+    a:hover {
+        color: rgb(17, 19, 18);
+    }
+
+    button>a {
+        color: rgb(253, 246, 246);
+        text-decoration-line: none;
+
+    }
+
+    div {
+        margin-right: 20px;
+    }
+
+    .yanyuma {
+        display: flex;
+    }
+
+    a {
+        padding-bottom: 10px;
+        color: black;
+        color: A6F7E;
+        margin-left: 0px;
+        margin-right 20px;
+        text-decoration: none;
+    }
+
+    .one {
+        display: flex;
+        padding: 25px;
+    }
+
+    .twoo {
+        display: flex;
+        padding: 25px;
+    }
+
+    .stree {
+        display: flex;
+        padding: 25px;
+        text-decoration: underline;
+        color: A6F7EB;
+    }
+
+    #yonyene {
+
+        margin: 15px;
+        color: white;
+        font-size: 25px;
+    }
+
+    #yonyene input {
+        width: 300px;
+        height: 30px;
+        text-align: center;
+        font-size: larger;
+        border-radius: 20px;
+    }
+
+    ol>a {
+        color: rgb(22, 184, 206);
+        text-decoration: underline;
+        font-size: 20px;
+    }
+
+    .mj {
+        color: rgb(22, 184, 206);
+        text-decoration: underline;
+    }
+
+    #mb {
+        color: A6F7EB;
+        text-decoration: underline;
+    }
+
+
+
+
+    #nn {
+        color: rgb(211, 89, 89);
+        text-decoration: underline;
+    }
+
+    .dd {
+        color: white;
+        text-decoration: underline;
+    }
+
+    h2 {
+        color: #000;
+    }
+
+    p {
+        font-size: larger;
+    }
+
+    .dd {
+        color: #b9f021;
+    }
+}
